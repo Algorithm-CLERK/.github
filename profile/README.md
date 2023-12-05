@@ -1,12 +1,12 @@
-## Hi there 👋
+## Properties
+1. 코딩테스트 합격
+2. CS지식 학습
 
-<!--
+## Rule
+1. 매주 알고리즘 3문제
+2. 매주 평일 중 하루 1-2 시간 zep에서 각자 풀이 진행 및 코드 리뷰
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repository
+- 프로그래머스
+- 백준
+- 리트코드
